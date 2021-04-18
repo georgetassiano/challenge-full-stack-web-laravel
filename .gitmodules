@@ -1,0 +1,3 @@
+[submodule "admin-grupoa"]
+	path = admin-grupoa
+	url = https://github.com/georgetassiano/admin-grupoa
