@@ -1,3 +1,6 @@
 [submodule "admin-grupoa"]
 	path = admin-grupoa
 	url = https://github.com/georgetassiano/admin-grupoa
+[submodule "api-grupoa"]
+	path = api-grupoa
+	url = https://github.com/georgetassiano/api-grupoa.git
